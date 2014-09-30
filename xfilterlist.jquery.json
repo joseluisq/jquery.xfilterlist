@@ -3,9 +3,10 @@
     "title": "jQuery xFilterList",
     "description": "A simple jQuery grid list plugin for easy filter and sorting.",
     "keywords": [
-        "ajax",
-        "request",
-        "xhr"
+        "filter",
+        "list",
+        "sorting",
+        "grid"
     ],
     "version": "1.0.0",
     "author": {
