@@ -19,7 +19,7 @@ var fl = new xFilterList($('sortlist'), {
 fl.filterBy('programing');
 ```
 
-HMTL :
+HTML :
 ```html
 <ul id="sortlist">
   <li data-filter="programing"></li>
