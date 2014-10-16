@@ -1,36 +1,32 @@
 {
-    "name": "xfilterlist",
-    "title": "jQuery xFilterList",
-    "description": "A simple jQuery grid list plugin for easy filter and sorting.",
-    "keywords": [
-        "filter",
-        "list",
-        "sorting",
-        "grid"
-    ],
-    "version": "1.0.0",
-    "author": {
-        "name": "Jose Luis Quintana",
-        "email": "joseluisquintana20@gmail.com",
-        "url": "https://github.com/joseluisq"
-    },
-    "maintainers": [
-        {
-            "name": "Jose Luis Quintana",
-            "email": "joseluisquintana20@gmail.com",
-            "url": "https://github.com/joseluisq"
-        }
-    ],
-    "licenses": [
-        {
-            "type": "MIT",
-            "url": "https://github.com/joseluisq/jquery.xfilterlist/blob/master/LICENSE.txt"
-        }
-    ],
-    "bugs": "https://github.com/joseluisq/jquery.xfilterlist/issues",
-    "homepage": "https://github.com/joseluisq/jquery.xfilterlist",
-    "docs": "https://github.com/joseluisq/jquery.xfilterlist",
-    "dependencies": {
-        "jquery": ">=1.9.0"
-    }
+  "name": "xfilterlist",
+  "title": "jQuery xFilterList",
+  "description": "A simple jQuery grid list plugin for easy filter and sorting.",
+  "keywords": [
+    "filter",
+    "list",
+    "sorting",
+    "grid"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "Jose Luis Quintana",
+    "email": "joseluisquintana20@gmail.com",
+    "url": "https://github.com/joseluisq"
+  },
+  "maintainers": [{
+    "name": "Jose Luis Quintana",
+    "email": "joseluisquintana20@gmail.com",
+    "url": "https://github.com/joseluisq"
+  }],
+  "licenses": [{
+    "type": "MIT",
+    "url": "https://github.com/joseluisq/jquery.xfilterlist/blob/master/LICENSE.txt"
+  }],
+  "bugs": "https://github.com/joseluisq/jquery.xfilterlist/issues",
+  "homepage": "https://github.com/joseluisq/jquery.xfilterlist",
+  "docs": "https://github.com/joseluisq/jquery.xfilterlist",
+  "dependencies": {
+    "jquery": ">=1.9.0"
+  }
 }
