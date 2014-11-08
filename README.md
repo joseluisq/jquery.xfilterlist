@@ -35,12 +35,6 @@ HTML :
 
 [See the live demo](http://goo.gl/5cY8M1)
 
-
-## Screenshots
-
-![Screenshot](http://joseluisquintana.pe/contribs/screenshots/ufilterlist.png)
-
-
 ## Reference
 **Options :**
 
@@ -48,7 +42,7 @@ HTML :
 
 **Public Methods :**
     
-  * `uFilterList.filterBy(string)` : String it's text to filter, it should match to `data-filter` attribute on `li` tags matching.
+  * `xFilterList.filterBy(string)` : String it's text to filter, it should match to `data-filter` attribute on `li` tags matching.
     
 **Events :**
 
