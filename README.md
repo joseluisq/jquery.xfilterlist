@@ -50,3 +50,7 @@ HTML :
 
 ## License
 Licensed under the [MIT License](http://opensource.org/licenses/MIT)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/joseluisq/jquery.xfilterlist/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
