@@ -2,7 +2,9 @@
 
 A simple jQuery grid list plugin for easy filter and sorting.
 
-**Note:** For better performance and new improvements it will recommended take a look at  [Sortboardjs](https://github.com/joseluisq/sortboardjs) project.
+**Note:** 
+
+For better performance and new improvements it will recommended take a look at  [Sortboardjs](https://github.com/joseluisq/sortboardjs) project.
 
 ## How to use
 
@@ -51,7 +53,3 @@ HTML :
 
 ## License
 Licensed under the [MIT License](http://opensource.org/licenses/MIT)
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/joseluisq/jquery.xfilterlist/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
