@@ -1,8 +1,9 @@
 **Note:** 
+
 For better performance and new improvements it will recommended take a look at  [Sortboardjs](https://github.com/joseluisq/sortboardjs) project.
 <hr>
 
-# jQuery xFilterList
+# jQuery xFilterList (deprecated)
 
 A simple jQuery grid list plugin for easy filter and sorting.
 
