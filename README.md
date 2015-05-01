@@ -1,6 +1,6 @@
 **Note:** 
 
-For better performance and new improvements it will recommended take a look at  [Sortboardjs](https://github.com/joseluisq/sortboardjs) project.
+For better performance and new improvements it will recommended take a look at  [Sortboardjs](https://github.com/quintana-dev/sortboard) project.
 <hr>
 
 # jQuery xFilterList (deprecated)
