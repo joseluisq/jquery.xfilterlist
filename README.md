@@ -1,5 +1,4 @@
-**Note:** 
-> For better performance and new improvements it will recommended take a look at  [Sortboard](https://github.com/quintana-dev/sortboard) project.
+> **Note:** For better performance and new improvements it will recommended take a look at  [Sortboard](https://github.com/quintana-dev/sortboard) project.
 
 # jQuery xFilterList (deprecated)
 
