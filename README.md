@@ -1,6 +1,6 @@
-> **Note:** For better performance and new improvements it will recommended take a look at  [Sortboard](https://github.com/quintana-dev/sortboard) project.
+> **Deprecated:** For better performance and new improvements it will recommended take a look at  [Sortboard](https://github.com/quintana-dev/sortboard) project.
 
-# jQuery xFilterList (deprecated)
+# jQuery xFilterList
 
 A simple jQuery grid list plugin for easy filter and sorting.
 
